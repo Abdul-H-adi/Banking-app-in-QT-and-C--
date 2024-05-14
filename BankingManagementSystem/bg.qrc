@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Icons/Untitled (3).png</file>
+        <file>Icons/output-onlinepngtools (1).png</file>
+    </qresource>
+</RCC>

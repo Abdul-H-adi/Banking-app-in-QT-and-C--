@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/Login.png</file>
+        <file>Icons/menu.png</file>
+        <file>Icons/user.png</file>
+        <file>Icons/icons8-bank-50 (1).png</file>
+        <file>Icons/icons8-bank-50.png</file>
+        <file>Icons/icons8-initiate-money-transfer-50 (1).png</file>
+        <file>Icons/icons8-initiate-money-transfer-50.png</file>
+        <file>Icons/icons8-home-50 (1).png</file>
+        <file>Icons/icons8-home-50.png</file>
+        <file>Icons/icons8-transaction-history-50 (1).png</file>
+        <file>Icons/icons8-transaction-history-50.png</file>
+        <file>Icons/icons8-close-window-50 (1).png</file>
+        <file>Icons/icons8-close-window-50.png</file>
+        <file>Icons/icons8-search-50.png</file>
+        <file>Icons/icons8-log-out-50.png</file>
+        <file>Icons/sendMoney.png</file>
+        <file>Icons/billpayments.png</file>
+        <file>Icons/addmoney.png</file>
+        <file>Icons/icons8-wallet-60.png</file>
+        <file>Icons/Screenshot 2023-10-28 154254.png</file>
+        <file>Icons/3798326.png</file>
+        <file>Icons/icons8-customer-support-50 (1).png</file>
+        <file>Icons/icons8-customer-support-50.png</file>
+        <file>Icons/icons8-loan-96.png</file>
+        <file>Icons/icons8-view-50.png</file>
+        <file>Icons/family-security-protection-vector-icon-600nw-1347200969-removebg.png</file>
+        <file>Icons/icons8-down-arrow-50.png</file>
+        <file>Icons/icons8-collapse-arrow-50.png</file>
+        <file>Icons/icons8-bank-cards-50.png</file>
+        <file>Icons/icons8-donate-50.png</file>
+    </qresource>
+</RCC>
