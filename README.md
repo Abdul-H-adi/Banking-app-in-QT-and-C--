@@ -17,4 +17,4 @@ To run this project, you will need Qt Creator installed on your system. Follow t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Qt-Banking-System.git
+git clone https://github.com/Abdul-H-adi/Qt-Banking-System.git
